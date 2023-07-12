@@ -1,8 +1,6 @@
-/*
-* Name: pun.c
-* Purpose: Prints a bad pun.
-* Author: R. Trom
-*/
+//Name: pun.c
+//Purpose: Prints a bad pun.
+//Author: R. Trom
 
 #include <stdio.h>
 
